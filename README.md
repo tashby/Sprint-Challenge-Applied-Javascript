@@ -28,7 +28,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
-1. What is the DOM?
+1. What is the DOM? The DOM is the document object model of the page. It allows you to navigate the document which is composed of HTML elements. You're allowed to manipulate the HTML through the dom using Javascript.
 
 2. What is an event?
 

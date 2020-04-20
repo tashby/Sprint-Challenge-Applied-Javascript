@@ -34,9 +34,9 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is an event listener? Event listeners wait for an action/event and perform something once that event is triggered. For example, an event listener can wait for a mouse click, and then run a function once that click happens.
 
-4. Why would we convert a NodeList into an Array?
+4. Why would we convert a NodeList into an Array? Nodelists are static. By converting a nodelist into an array you are able to manipulate the data more. Converting it into an array allows you to use methods provided to an array such as forEach.
 
-5. What is a component?
+5. What is a component? A component is a reusable block of code. It is self contained and can be placed somewhere and easily take on the styling and functionality of the rest of the page. Using components allows you to build applications in smaller parts.
 
 ### Git Set up
 
